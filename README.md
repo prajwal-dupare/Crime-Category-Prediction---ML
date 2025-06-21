@@ -1,12 +1,12 @@
 # Crime Category Prediction
 
-This repository presents a machine learning pipeline to predict crime categories using rich city-level crime data. By analyzing patterns across time, location, and demographics, the project aims to support public safety and inform law enforcement strategies.
+This repository presents a project from IIT Madras which is mandatory as a part of data science degree based on machine learning pipeline to predict crime categories using rich city-level crime data. By analyzing patterns across time, location, and demographics, the project aims to support public safety and inform law enforcement strategies.
 
 ---
 
 ## 📌 Problem Statement
 
-You are given a dataset containing detailed information about various criminal incidents, including:
+Given a dataset containing detailed information about various criminal incidents, including:
 
 * **Date & Time**
 * **Location (coordinates/neighborhood)**
